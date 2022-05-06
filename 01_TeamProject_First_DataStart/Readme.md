@@ -32,8 +32,8 @@
 - Proj-02. [프로젝트 결과보고서 포맷   ][proj-02]
 
 
-[proj-01]:  ./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx "Go proj-01"
-[proj-02]:  ./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx "Go proj-02"
+[proj-01]:  ./docu/Goorm10_프로젝트보고서_포맷_OOO팀.docx "Go proj-01"
+[proj-02]:  ./docu/팀별프로젝트수행_결과작성양식_kdigital.pptx "Go proj-02"
 
 <hr>
 
@@ -42,7 +42,7 @@
 
 - <b>1st Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b>Learning by doing, doing by learning !! </b></font>
-- <b>Report Format </b>: <a href="./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx">(샘플)보고서 양식</a>
+- <b>Report Format </b>: <a href="./docu/Goorm10_프로젝트보고서_포맷_OOO팀.docx">(샘플)보고서 양식</a>
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
 
 
@@ -134,9 +134,7 @@
 </div>
 <hr>
 
-[![Video Label](images/basiclogo_E_H_노션.jpg)](____) 
-### 멋쟁이 사자처럼 실무 데이터 사이언티스트 1기!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
-
+Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 <hr>
 
 ##  <font color='#00AAAA'>Team Project : Final Report</font>

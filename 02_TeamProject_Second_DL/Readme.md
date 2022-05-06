@@ -36,8 +36,8 @@
 - Proj-02. [프로젝트 결과보고서 포맷   ][proj-02]
 
 
-[proj-01]:  ./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx "Go proj-01"
-[proj-02]:  ./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx "Go proj-02"
+[proj-01]:  ./docu/Goorm10_프로젝트보고서_포맷_OOO팀.docx "Go proj-01"
+[proj-02]:  ./docu/팀별프로젝트수행_결과작성양식_kdigital.pptx "Go proj-02"
 
 <hr>
 
@@ -206,9 +206,7 @@
 </div>
 <hr>
 
-[![Video Label](images/basiclogo_E_H_노션.jpg)](____) 
-### 멋쟁이 사자처럼 실무 데이터 사이언티스트 1기!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
-
+Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 <hr>
 
 ##  <font color='#00AAAA'>Team Project : Final Report</font>
