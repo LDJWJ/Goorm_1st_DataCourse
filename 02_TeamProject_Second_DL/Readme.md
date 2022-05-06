@@ -10,7 +10,7 @@
 
 <h2><font color="#00CCCC"><b>데이터 사이언티스트 실무자</b></font></h2>
 
-<img src="./images/BigData_Project.png">
+<img src="./images/just_start.jpg">
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
