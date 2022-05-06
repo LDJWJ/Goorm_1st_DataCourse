@@ -157,6 +157,29 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 			<td><div align="center"><b>Team Members</b></div></td>
 			<td><div align="left" > 최유림, 박경빈, 방울, 한설아 </div></td>
 		</tr>
+		<tr>
+			<td><div align="center"><b>Report</b></div></td>
+			<td>
+				<div align="left" > 
+					<a href="#">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+					<a href="reports/Team_A_code/">[A팀 소스코드]</a>  
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td><div align="center"><b>Subject</b></div></td>
+			<td><div align="left" > 인기있는 요리 레시피에 주로 사용되는 재료 </div></td>
+		</tr>
+		<tr>
+			<td><div align="center"><b>Presentation</b></div></td>
+			<td>
+				<div align="left" >
+				<a href="#">
+					<img src="images/01_pic.png" width="90%">
+				</a>
+				</div>
+			</td>
+		</tr>
 	</table>
 </div>
 
