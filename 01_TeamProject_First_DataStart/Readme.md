@@ -147,6 +147,14 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 ### <font color="red">Project Team A </font>
 <div align="left" width=100%>
 	<table border=1 width=100%>
+		<tr>
+			<td width="25%">
+				<div align="center"><b>Project Team</b></div>
+			</td>
+			<td width="75%">
+				<div align="left" > Buildup(빌드업) </div>
+			</td>
+		</tr>
 	</table>
 </div>
 
