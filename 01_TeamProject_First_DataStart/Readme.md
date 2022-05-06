@@ -146,46 +146,50 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 
 ### <font color="red">Project Team A </font>
 
-<div align=left width=100%>
-<table border=1 width=100%>
-	<tr>
-		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > Buildup(빌드업) </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 최유림, 박경빈, 방울, 한설아 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Report</b></div></td>
-		<td>
-			<div align="left" > 
-				<a href="#">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_A_code/">[A팀 소스코드]</a>  
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 인기있는 요리 레시피에 주로 사용되는 재료 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Presentation</b></div></td>
-		<td>
-			<div align="left" >
-			<a href="#">
-				<img src="images/01_pic.png" width="90%">
-			</a>
-			</div>
-		</td>
-	</tr>
-</table>
+<div align="left" width=100%>
+	<table border=1 width=100%>
+		<tr>
+			<td width="25%"><div align="center"><b>Project Team</b></div></td>
+			<td width="75%"><div align="left" > Buildup(빌드업) </div></td>
+		</tr>
+		
+		<tr>
+			<td><div align="center"><b>Team Members</b></div></td>
+			<td><div align="left" > 최유림, 박경빈, 방울, 한설아 </div></td>
+		</tr>
+		
+		<tr>
+			<td><div align="center"><b>Report</b></div></td>
+			<td>
+				<div align="left" > 
+					<a href="#">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+					<a href="reports/Team_A_code/">[A팀 소스코드]</a>  
+				</div>
+			</td>
+		</tr>
+		
+		<tr>
+			<td><div align="center"><b>Subject</b></div></td>
+			<td><div align="left" > 인기있는 요리 레시피에 주로 사용되는 재료 </div></td>
+		</tr>
+		<tr>
+			<td><div align="center"><b>Presentation</b></div></td>
+			<td>
+				<div align="left" >
+				<a href="#">
+					<img src="images/01_pic.png" width="90%">
+				</a>
+				</div>
+			</td>
+		</tr>
+	</table>
 </div>
+
 <br>
 
 ### <font color="red">Project Team B </font>
 
-<div align=left width=100%>
+<div align="left" width=100%>
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>All Ready(올레디)</b></div></td>
@@ -226,7 +230,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 
 ### <font color="red">Project Team C </font>
 
-<div align=left width=100%>
+<div align="left" width=100%>
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
@@ -266,7 +270,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 
 ### <font color="red">Project Team D </font>
 
-<div align=left width=100%>
+<div align="left" width=100%>
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
