@@ -145,6 +145,12 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 <hr>
 
 ### <font color="red">Project Team A </font>
+<div align="left" width=100%>
+	<table border=1 width=100%>
+	</table>
+</div>
+
+
 
 <div align="left" width=100%>
 	<table border=1 width=100%>
