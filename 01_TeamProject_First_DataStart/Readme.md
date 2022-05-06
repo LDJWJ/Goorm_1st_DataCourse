@@ -1,6 +1,6 @@
 
-# AI School - 10회차
-* 프로젝트로 익히는 실전 데이터 분석 및 딥러닝 입문
+# AI School - Goorm 1회차
+* AI 인공지능 기본
 
 <div align='right'>
     <font size=2 color='gray'>파이썬@ <font color='blue'>
@@ -15,14 +15,14 @@
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
 세미 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
-* 기간 : 2021.06.22(화) ~ 2021.06.25(화) <br>
-  * STEP 01. 코로나 주제 선정 <br>
+* 기간 : 2022.04.22(금) ~ 2022.05.06(금) <br>
+  * STEP 01. 팀별 주제 선정 <br>
   * STEP 02. 데이터 수집 및 처리/시각화, 간단한 분석<br>
-  * STEP 03. 2021.06.24(목) 22:00 최종 결과물 제출<br>
-  * STEP 04. 2021.06.25(금) 10:00 최종 결과물 발표<br>
-
+  * STEP 03. 2022.05.05(목) 22:00 최종 결과물 제출<br>
+  * STEP 04. 프로젝트 발표<br>
+  
 * 팀별 최종 발표   <br>
-  * 2021.06.25(금) 10:00 (5-10분)
+  * 2022.05.06(금) 21:00~23:00 (5-10분)
 <hr>
 
 ## <font color='#00AAAA'>Reference Documents</font>
@@ -64,137 +64,69 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:8조였던1조<br/>(팀장:김동화)<br/> 
+        <div align="center"> 팀명:빌드업(bulid up)<br/>(팀장:최유림)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">김동화<br/>김남은, 김민수, 최민혁</div>
+            <div align="left">최유림<br/>박경빈(부팀장), 방울, 한설아</div>
         </td>
 		<td>
-			<div align="left"> 코로나 시각화 : GDP와 완치율의 상관관계, 대륙별 치명률과 완치률, 국내 지역별 확진자 지도 </div></td>
+			<div align="left"> 인기있는 요리 레시피에 주로 사용되는 재료 </div></td>
 		<td>
-            <div align="center"> <a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">
-				<img src='images/01_pic.png' width=200 height=100  alt="8조였던1조"></a>    
+            <div align="center"> <a href="#">
+				<img src='images/01_pic.png' width=200 height=100  alt="빌드업"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:트리플 J<br/>(팀장:김현준)<br/> 
+        <div align="center"> 팀명:올레디(All Ready)<br/>(팀장:전호담)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">김현준<br/>김지연, 정희경 </div>
+            <div align="left">전호담<br/>정종윤(부팀장), 이진석, 최혜령</div>
         </td>
 		<td>
-			<div align="left"> 코로나 시각화 </div></td>
+			<div align="left"> 매수 심리와 관련된 매매 추세 등 부동산 관련 주제 </div></td>
 		<td>
-            <div align="center"> <a href="https://github.com/hyunjun33/LikeLion_Web/tree/main/covid_website_analysis">
-				<img src='images/02_image.jpg' width=200 height=100  alt="트리플 J"></a>    
+            <div align="center"> <a href="#">
+				<img src='images/02_image.jpg' width=200 height=100  alt="올레디"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:사자들<br/>(팀장:박성준)<br/> 
+        <div align="center"> 팀명:열정 3조<br/>(팀장:강진오)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">박성준<br/>박상엽, 이지은 </div>
+            <div align="left">강진오<br/> 김미현 </div>
         </td>
 		<td>
-			<div align="left"> 백신의 효율적 공급을 위한 데이터 분석 </div></td>
+			<div align="left"> 청와대 국민청원 아카이브 </div></td>
 		<td>
-            <div align="center"><a href="reports/사자들_박성준.pdf">
-				<img src='images/03_LikeLion.png' width=200 height=100 alt="사자들"></a>    
+            <div align="center"><a href="#">
+				<img src='images/03_LikeLion.png' width=200 height=100 alt="열정 3조"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:이희희<br/>(팀장:이성준)<br/> 
+        <div align="center"> 팀명:파사모 <br/>(팀장:민전기)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">이성준<br/> 노진희, 조희창 </div>
+            <div align="left">민전기<br/> 최윤서, 송인영 </div>
         </td>
 		<td>
-			<div align="left"  > 코로나19 데이터를 통한 시각화 </div></td>
+			<div align="left"  > 폐기물 발생량으로 알아본 파이썬 </div></td>
 		<td>
-            <div align="center"> <a href="https://www.notion.so/6-22-24-bf51706870a346f193cd6da1c5e43b1d">
-				<img src='images/04_image.png' width=200 height=100 alt="이희희"></a>    
-            </div>
-        </td>
-	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명:이남류<br/>(팀장:이응진)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">이응진<br/> 남연주, 류지인 </div>
-        </td>
-		<td>
-		    <div align="left"> 코로나 예방 데이터 분석 </div></td>
-		<td>
-            <div align="center"> <a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">
-				<img src='images/05_leeeunjin.png' width=200 height=100 alt="이남류"></a>    
-            </div>
-        </td>
-	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명:황금 시바견<br/>(팀장:이예준)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">이예준<br/> 최수연, 최아름 </div>
-        </td>
-		<td>
-		    <div align="left"> GDP 상위/하위 10개국 간의 parameter 상관관계 비교 </div></td>
-		<td>
-            <div align="center"> <a href="reports/..">
-              <img src='images/06_dog_e.png' width=200 height=100 alt="황금 시바견"></a> 
-	        </div>
-        </td>
-	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명:ESC팀<br/>(팀장:이준명)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">이준명<br/> 안현우, 양소연, 양효진 </div>
-        </td>
-		<td>
-		    <div align="left"> 친환경 플렛폼 </div></td>
-		<td>
-            <div align="center"> <a href="reports/해커톤_이준명_대회.pdf">
-				<img src='images/07_image.png' width=200 height=100 alt="ESC팀"></a>    
-            </div>
-        </td>
-	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명:피땀멜론<br/>(팀장:전명운)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">전명운<br/> 김현, 김혜린, 이규림 </div>
-        </td>
-		<td>
-		    <div align="left"> 변수에 따른 음악 장르 선호도 상관관계 분석 </div></td>
-		<td>
-            <div align="center"> <a href="reports/피땀멜론_Big_Data_Visualization_0706.pdf">
-				<img src='images/08_image.jpg' width=200 height=100 alt="피땀멜론"></a>    
+            <div align="center"> <a href="#">
+				<img src='images/04_image.png' width=200 height=100 alt="파사모"></a>    
             </div>
         </td>
 	</tr>
@@ -220,30 +152,30 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 8조였던1조 </div></td>
+		<td width="75%"><div align="left" > Buildup(빌드업) </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 김동화, 김남은, 김민수, 최민혁 </div></td>
+		<td><div align="left" > 최유림, 박경빈, 방울, 한설아 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="#">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_A_code/">[A팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 코로나 시각화 : GDP와 완치율의 상관관계, 대륙별 치명률과 완치률, 국내 지역별 확진자 지도 </div></td>
+		<td><div align="left" > 인기있는 요리 레시피에 주로 사용되는 재료 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-			<a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">
+			<a href="#">
 				<img src="images/01_pic.png" width="90%">
 			</a>
 			</div>
@@ -258,12 +190,12 @@
 <div align=left width=100%>
 <table border=1 width=100%>
 	<tr>
-		<td width="25%"><div align="center"><b>트리플 J</b></div></td>
-		<td width="75%"><div align="left" > 김현준 </div></td>
+		<td width="25%"><div align="center"><b>All Ready(올레디)</b></div></td>
+		<td width="75%"><div align="left" > 전호담 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 김현준, 김지연, 정희경 </div></td>
+		<td><div align="left" > 정종윤, 이진석, 최혜령 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -276,7 +208,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 코로나 시각화 </div></td>
+		<td><div align="left" > 매수 심리와 관련된 매매 추세 등 부동산 관련 주제 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -300,30 +232,30 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 사자들 </div></td>
+		<td width="75%"><div align="left" > 열정 3조 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 박성준, 박상엽, 이지은 </div></td>
+		<td><div align="left" > 강진오, 김미현 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/사자들_박성준.pdf">[C팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/#">[C팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_D_code">[C팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 백신의 효율적 공급을 위한 데이터 분석 </div></td>
+		<td><div align="left" > 청와대 국민청원 아카이브 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-				<a href="reports/사자들_박성준.pdf">
+				<a href="#">
 					<img src="images/03_LikeLion.png" width="90%">
 				</a>
 			</div>
@@ -340,185 +272,31 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 이희희 </div></td>
+		<td width="75%"><div align="left" > 파사모 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 이성준, 노진희, 조희창 </div></td>
+		<td><div align="left" > 민전기, 최윤서, 송인영 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="https://www.notion.so/6-22-24-bf51706870a346f193cd6da1c5e43b1d">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>		
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 코로나19 데이터를 통한 시각화 </div></td>
+		<td><div align="left" > 폐기물 발생량으로 알아본 파이썬 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-				<a href="https://www.notion.so/6-22-24-bf51706870a346f193cd6da1c5e43b1d">
+				<a href="#">
 					<img src="images/04_image.png" width="90%">
 				</a>
-			</div>
-		</td>
-	</tr>
-</table>
-</div>
-
-### <font color="red">Project Team E </font>
-
-<div align=left width=100%>
-<table border=1 width=100%>
-	<tr>
-		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 이남류 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 이응진, 남연주, 류지인 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Report</b></div></td>
-		<td>
-			<div align="left" > 
-				<a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">[E팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_F_code">[E팀 소스코드]</a>  
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 코로나 예방 데이터 분석 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Presentation</b></div></td>
-		<td>
-			<div align="left" >
-				<a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">
-					<img src="images/05_leeeunjin.png" width="90%">
-				</a>
-			</div>
-		</td>
-	</tr>
-</table>
-</div>
-<br>
-<hr>
-
-### <font color="red">Project Team F </font>
-
-<div align=left width=100%>
-<table border=1 width=100%>
-	<tr>
-		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 황금 시바견 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 이예준, 최수연, 최아름 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Report</b></div></td>
-		<td>
-			<div align="left" > 
-				<a href="reports/Team_F_code">[F팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_F_code">[F팀 소스코드]</a>  
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > GDP 상위/하위 10개국 간의 parameter 상관관계 비교 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Presentation</b></div></td>
-		<td>
-			<div align="left" >
-			<a href="reports/Team_F_code">
-				<img src="images/06_dog_e.png" width="90%">
-			</a>
-			</div>
-		</td>
-	</tr>
-</table>
-</div>
-
-### <font color="red">Project Team G </font>
-
-<div align=left width=100%>
-<table border=1 width=100%>
-	<tr>
-		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > ESC팀 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 이준명, 안현우, 양소연, 양효진 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Report</b></div></td>
-		<td>
-			<div align="left" > 
-				<a href="reports/해커톤_이준명_대회.pdf">[G팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_warning/code/">[G팀 소소코드]</a>  
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 친환경 플렛폼</div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Presentation</b></div></td>
-		<td>
-			<div align="left" >
-			<a href="reports/해커톤_이준명_대회.pdf">
-				<img src="images/07_image.png" width="90%">
-			</a>
-			</div>
-		</td>
-	</tr>
-</table>
-</div>
-
-### <font color="red">Project Team H </font>
-
-<div align=left width=100%>
-<table border=1 width=100%>
-	<tr>
-		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 피땀멜론 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 전명운, 김현, 김혜린, 이규림 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Report</b></div></td>
-		<td>
-			<div align="left" > 
-				<a href="reports/00_New_06_24_214827.pdf">[H팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_warning/code/">[H팀 소스코드]</a>  
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 변수에 따른 음악 장르 선호도 상관관계 분석 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Presentation</b></div></td>
-		<td>
-			<div align="left" >
-			<a href="reports/피땀멜론_Big_Data_Visualization_0706.pdf">
-				<img src="images/08_image.jpg" width="90%">
-			</a>
 			</div>
 		</td>
 	</tr>
