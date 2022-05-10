@@ -201,8 +201,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/[B조_AllReady]_5년간광주광역시_아파트실거래활용분석_최종.pdf">[B팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_B_code/">[B팀 소스코드]</a>  
+				<a href="last_reports/[B조_AllReady]_5년간광주광역시_아파트실거래활용분석_최종.pdf">[B팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>
 	</tr>
@@ -214,7 +213,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-				<a href="reports/Team_B_code/">
+				<a href="last_reports/[B조_AllReady]_5년간광주광역시_아파트실거래활용분석_최종.pdf">
 					<img src="images/02_image.jpg" width="90%">
 				</a>
 			</div>
@@ -242,7 +241,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/[C조_열정3조]_국민청원데이터분석_최종.pdf">[C팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="last_reports/[C조_열정3조]_국민청원데이터분석_최종.pdf">[C팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_D_code">[C팀 소스코드]</a>  
 			</div>
 		</td>
@@ -255,7 +254,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-				<a href="#">
+				<a href="last_reports/[C조_열정3조]_국민청원데이터분석_최종.pdf">
 					<img src="images/03_LikeLion.png" width="90%">
 				</a>
 			</div>
@@ -282,7 +281,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/[D조_파사모]_폐기물발생량과기타데이터관련분석_last.pdf">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="last_reports/[D조_파사모]_폐기물발생량과기타데이터관련분석_last.pdf">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>		
 	</tr>
@@ -294,7 +293,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-				<a href="#">
+				<a href="last_reports/[D조_파사모]_폐기물발생량과기타데이터관련분석_last.pdf">
 					<img src="images/04_image.png" width="90%">
 				</a>
 			</div>
