@@ -240,7 +240,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="./last_reports/team_C_열정3조_last.pdf">[C팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href="./last_reports/team_C_last.pdf">[C팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>
 	</tr>
@@ -252,7 +252,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-				<a href="./last_reports/team_C_열정3조_last.pdf">
+				<a href="./last_reports/team_C_last.pdf">
 					<img src="images/03_LikeLion.png" width="90%">
 				</a>
 			</div>
@@ -279,7 +279,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="./last_reports/team_D_파사모_last.pdf">[D팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href="./last_reports/team_D_last.pdf">[D팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>		
 	</tr>
@@ -291,7 +291,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-				<a href="./last_reports/team_D_파사모_last.pdf">
+				<a href="./last_reports/team_D_last.pdf">
 					<img src="images/04_image.png" width="90%">
 				</a>
 			</div>
