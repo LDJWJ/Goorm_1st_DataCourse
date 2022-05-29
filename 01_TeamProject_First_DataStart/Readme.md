@@ -74,7 +74,7 @@
 		<td>
 			<div align="left"> 인기있는 요리 레시피에 주로 사용되는 재료 </div></td>
 		<td>
-            <div align="center"> <a href="#">
+            <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_A_BuildUp_last.pdf">
 				<img src='images/01_pic.png' width=200 height=100  alt="빌드업"></a>    
             </div>
         </td>
@@ -91,7 +91,7 @@
 		<td>
 			<div align="left"> 매수 심리와 관련된 매매 추세 등 부동산 관련 주제 </div></td>
 		<td>
-            <div align="center"> <a href="#">
+            <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_B_AllReady_last.pdf">
 				<img src='images/02_image.jpg' width=200 height=100  alt="올레디"></a>    
             </div>
         </td>
@@ -108,7 +108,7 @@
 		<td>
 			<div align="left"> 청와대 국민청원 아카이브 </div></td>
 		<td>
-            <div align="center"><a href="#">
+            <div align="center"><a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_C_last.pdf">
 				<img src='images/03_LikeLion.png' width=200 height=100 alt="열정 3조"></a>    
             </div>
         </td>
@@ -125,7 +125,7 @@
 		<td>
 			<div align="left"  > 폐기물 발생량으로 알아본 파이썬 </div></td>
 		<td>
-            <div align="center"> <a href="#">
+            <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_D_last.pdf">
 				<img src='images/04_image.png' width=200 height=100 alt="파사모"></a>    
             </div>
         </td>
@@ -161,7 +161,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 			<td><div align="center"><b>Report</b></div></td>
 			<td>
 				<div align="left" > 
-					<a href="#">[A팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+					<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_A_BuildUp_last.pdf">[A팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
 				</div>
 			</td>
 		</tr>
@@ -173,7 +173,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 			<td><div align="center"><b>Presentation</b></div></td>
 			<td>
 				<div align="left" >
-				<a href="#">
+				<a href="./last_reports/team_A_BuildUp_last.pdf">
 					<img src="images/01_pic.png" width="90%">
 				</a>
 				</div>
@@ -200,7 +200,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="last_reports/team_B_AllReady_last.pdf">[B팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_B_AllReady_last.pdf">[B팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>
 	</tr>
@@ -279,7 +279,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="./last_reports/team_D_last.pdf">[D팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_D_last.pdf">[D팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>		
 	</tr>
