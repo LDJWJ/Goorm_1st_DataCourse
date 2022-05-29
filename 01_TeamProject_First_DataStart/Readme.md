@@ -40,8 +40,8 @@
 
 ##  <font color='#00AAAA'>Team Project : Kick Off</font>
 
-- <b>1st Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
-- <b>Our Motto   </b>: <font color='#CC0000'><b>Learning by doing, doing by learning !! </b></font>
+- <b>1st Subject </b>: <font color='#CC0000'><b> 우리의 관심 분야 데이터 수집/분석해보기 </b></font>
+- <b>Our Motto   </b>: <font color='#CC0000'><b> 작은 태도, 작은 땀, 작은 노력이 모여 더 나은 곳으로 인도합니다. </b></font>
 - <b>Report Format </b>: <a href="./docu/Goorm10_프로젝트보고서_포맷_OOO팀.docx">(샘플)보고서 양식</a>
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
 
