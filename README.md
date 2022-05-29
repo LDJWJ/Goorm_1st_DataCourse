@@ -1,5 +1,6 @@
 # Goorm_1st_DataCourse
  
+### 전체 과정 확인 WEB PAGE
 Web : https://ldjwj.github.io/Goorm_1st_DataCourse/
 
 
