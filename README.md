@@ -14,4 +14,4 @@ Web : https://ldjwj.github.io/Goorm_1st_DataCourse/
 
 
 ### 토이 실전 프로젝트 2- 나의 머신러닝 모델 & 데이터 분석
- * 데이터를 선정하고, 이에 대한 시각화, 데이터 탐색, 머신러닝 모델을 구축해 봅니다. [해당 페이지로 이동]()
+ * 데이터를 선정하고, 이에 대한 시각화, 데이터 탐색, 머신러닝 모델을 구축해 봅니다. [해당 페이지로 이동](https://github.com/LDJWJ/Goorm_1st_DataCourse/tree/main/02_ToyProject_Second)
